@@ -1,8 +1,8 @@
 <?php
 
-namespace Laravelista\Comments;
+namespace NIk\Comments;
 
-use Laravelista\Comments\Comment;
+use NIk\Comments\Comment;
 
 class CommentPolicy
 {

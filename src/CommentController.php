@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravelista\Comments;
+namespace NIk\Comments;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Config;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravelista\Comments;
+namespace NIk\Comments;
 
 use Illuminate\Pagination\Paginator;
 use Illuminate\Support\Facades\App;
